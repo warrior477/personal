@@ -9,4 +9,6 @@
 | [Промышленность](https://github.com/warrior477/personal/blob/main/%D0%9F%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C/predict_temps.ipynb)| Дипломный проект Я.Практикум. Построение модели для оптимизации производственных расходов на этапе обработки стали.  |
 
 
-
+## Контакты
+* Email: 5337177r@gmail.com
+* Web: http://www.rmnkrzv.online/
